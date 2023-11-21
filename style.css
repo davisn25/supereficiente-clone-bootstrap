@@ -60,3 +60,7 @@ body {
 iframe {
     width: 250px;
 }
+
+.gap-3 img {
+    height: 24px;
+}
